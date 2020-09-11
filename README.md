@@ -17,7 +17,7 @@
 
 <!-- tocstop -->
 
-CakePHP Sample App on OpenShift
+EDITED CakePHP Sample App on OpenShift
 ===============================
 
 This is a quickstart CakePHP application for OpenShift v3 that you can use as a starting point to develop your own application and deploy it on an [OpenShift](https://github.com/openshift/origin) cluster.
